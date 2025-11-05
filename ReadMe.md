@@ -1,3 +1,1 @@
-# Forecasting Sales
-
-# Linear Regression 
+# Pytorch
